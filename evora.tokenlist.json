@@ -1,0 +1,19 @@
+{
+  "name": "Evora Token List",
+  "logoURI": "https://i.imgur.com/Hhv7xMa.png", 
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x178688717258c4471c457E0cd13846dA145035FB",
+      "symbol": "EVO",
+      "name": "Evora",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/Hhv7xMa.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
